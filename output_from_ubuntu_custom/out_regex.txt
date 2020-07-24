@@ -1,0 +1,8 @@
+[mNotice: Scope(Class[main]): true[0m
+[mNotice: Scope(Class[main]): true[0m
+[mNotice: Scope(Class[main]): true[0m
+[mNotice: Scope(Class[main]): true[0m
+[mNotice: Scope(Class[main]): true[0m
+[mNotice: Scope(Class[main]): true[0m
+[mNotice: Compiled catalog for eric-virtualbox in environment production in 0.01 seconds[0m
+[mNotice: Applied catalog in 0.01 seconds[0m
